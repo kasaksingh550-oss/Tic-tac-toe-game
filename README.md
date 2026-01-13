@@ -1,15 +1,20 @@
-# Tic Tac Toe Game (Java)
+# Tic Tac Toe Game 🎮
 
-A console-based Tic Tac Toe game built using Java.
+A simple console-based Tic Tac Toe game built in Java.  
+This project demonstrates basic Java concepts such as arrays, loops, conditionals, and user input handling.
 
 ## Features
-- Two-player game
-- Win & draw detection
+- Two-player game (X and O)
 - Input validation
-- Restart game option
+- Winner and draw detection
+- Clean console UI
 
-## Concepts Used
-- Arrays
-- Loops
-- Conditional statements
-- Exception handling
+## Technologies Used
+- Java
+- Scanner class
+- Git & GitHub
+
+## How to Run
+1. Clone the repository
+   ```bash
+   git clone https://github.com/kasaksingh550-oss/Tic-tac-toe-game.git
